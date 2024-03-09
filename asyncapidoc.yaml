@@ -1,6 +1,7 @@
 asyncapi: 2.4.0
 info:
   title: Example AsyncAPI specification
+  description: AsyncAPI description
   version: 0.1.0
 channels:
   example-channel:
